@@ -7,6 +7,8 @@
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=DigoXavier&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/DigoXavier/github-readme-stats)
+
 ## Tecnologias em que tenho conhecimentos
 
 <div style="display:inline_block"><br>
