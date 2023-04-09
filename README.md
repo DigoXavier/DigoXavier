@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://imaginative-praline-49f12b.netlify.app/)
 
-![DigoXavier GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=DigoXavier&show_icons=true&theme=transparent)
 
 ## Tecnologias em que tenho conhecimentos
 
